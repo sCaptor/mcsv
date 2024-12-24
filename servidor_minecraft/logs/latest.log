@@ -593,3 +593,31 @@
 [03:53:36] [Server thread/INFO]: [Chunky] Task finished for world. Processed: 10201 chunks (100.00%), Total time: 0:04:47
 [03:54:03] [Server thread/INFO]: SCAPT0R has made the advancement [Acquire Hardware]
 [03:54:33] [Server thread/INFO]: SCAPT0R issued server command: /chunky progress
+[04:02:09] [Server thread/INFO]: SCAPT0R issued server command: /stop
+[04:02:09] [Server thread/INFO]: [SCAPT0R: Stopping the server]
+[04:02:09] [Server thread/INFO]: Stopping server
+[04:02:09] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.28
+[04:02:09] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[04:02:09] [Server thread/INFO]: Saving players
+[04:02:09] [Server thread/INFO]: SCAPT0R lost connection: Server closed
+[04:02:09] [Server thread/INFO]: SCAPT0R left the game
+[04:02:09] [Server thread/INFO]: Saving worlds
+[04:02:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:02:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:02:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:02:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:02:10] [Server thread/INFO]: [ChunkHolderManager] Saved 127 block chunks, 282 entity chunks, 1 poi chunks in world 'world' in 0.35s
+[04:02:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:02:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:02:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:02:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:02:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[04:02:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:02:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:02:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:02:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:02:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[04:02:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:02:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:02:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:02:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
